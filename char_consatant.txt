@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+char main()
+{
+    char A;
+    printf("%d",'A'*10);
+
+    return 0;
+}
